@@ -1,4 +1,4 @@
-## Данный ресурс работает с запросами на Marvle Api.
+# Данный ресурс работает с запросами на Marvle Api.
 
 Созданы и написаны разные функции для получения данных.
 1) Получение случайного персонажа
@@ -7,7 +7,19 @@
 4) Отдельный компонент про комиксы
 и др.
 
-# Функционал будет постоянно добавляться
+## Функционал будет постоянно добавляться
+
+
+# This resource works with requests to the Marvel Api.
+
+Various functions have been created and written to receive data.
+1) Getting a random character
+2) List of characters with subloading
+3) Information about each character
+4) A separate component about comics
+and etc.
+
+## Functionality will be constantly added
 
 
 # Getting Started with Create React App
